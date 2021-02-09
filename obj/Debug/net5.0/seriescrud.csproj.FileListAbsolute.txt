@@ -1,0 +1,16 @@
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\seriescrud.exe
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\seriescrud.deps.json
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\seriescrud.runtimeconfig.json
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\seriescrud.runtimeconfig.dev.json
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\seriescrud.dll
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\ref\seriescrud.dll
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\bin\Debug\net5.0\seriescrud.pdb
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.csprojAssemblyReference.cache
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.AssemblyInfoInputs.cache
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.AssemblyInfo.cs
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.csproj.CoreCompileInputs.cache
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.dll
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\ref\seriescrud.dll
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.pdb
+C:\Users\luizf\Documents\Apps\dotnet\seriescrud\obj\Debug\net5.0\seriescrud.genruntimeconfig.cache
